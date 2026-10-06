@@ -1,12 +1,10 @@
-## Hi there 👋
+# Hi, I'm Avelina 👋
 
-<!--
-**avelinakoding/Avelinakoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Post-grad student studying computer science.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on my tech/ai career
-- 🌱 I’m currently learning cloud computing in aws & linux!
-- 📫 How to reach me: linkedin! 
--->
+- 🎓 UCLA alum
+- 💼 Currently at Newegg
+- 🛠️ Interested in AI, data, and building tools that make work easier
+
 ## Projects
 Coming soon.
